@@ -1,0 +1,2 @@
+# Safelinkwa.js
+safelinkwa.js
